@@ -11,7 +11,7 @@ import {
 } from "react-native";
 import * as Permissions from "expo-permissions";
 import { BarCodeScanner } from "expo-barcode-scanner";
-import db from "../config";
+import db from "./config";
 
 const bgImage = require("./background2.png");
 const appIcon = require("./appIcon.png");
