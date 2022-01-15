@@ -1,6 +1,6 @@
 import firebase from "firebase";
 require("@firebase/firestore");
-import { collection, doc, setDoc } from "firebase/firestore";
+//import { collection, doc, setDoc } from "firebase/firestore";
 //Pega tu configuración de firebase aquí
 
 var firebaseConfig = {
